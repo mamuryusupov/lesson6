@@ -10,15 +10,15 @@
     color: green;
 }
 
-.already-learned ul~code {
+.already-learned h4>code {
     background-color: orange;
 }
 
-.to-be-learned ul~code {
+.to-be-learned h4>code {
     background-color: green;
 }
 
-#special1~h4>code {
+#special1+li>h4 code {
     border: 2px solid blue;
 }
 
