@@ -14,7 +14,8 @@
     background-color: orange;
 }
 
-.to-be-learned h4>code {
+.to-be-learned h4>code,
+ul>li>code {
     background-color: green;
 }
 
